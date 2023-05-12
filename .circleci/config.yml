@@ -7,4 +7,4 @@ jobs:
 
     steps:
       - checkout
-      - run: echo "Hello CircleCI!"
+      - run: echo "Hello CircleCI! (modified)"
